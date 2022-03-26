@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">FinApp</string>
+    <string name="expenses">Расход</string>
+    <string name="income">Приход</string>
+    <string name="type_amount">Введите сумму</string>
+    <string name="app_desc">Ваш финансовый ассистент.</string>
+    <string name="balance">Ваш общий баланс:</string>
+    <string name="tmp_for_balance">7000</string>
+    <string name="bnt_commit_e">Подтвердить</string>
+    <string name="bnt_commit_i">Подтвердить</string>
+    <string name="enter_balance">Введите ваш текущий баланс:</string>
+    <string name="btn_ok">OK</string>
+    <string name="for_hist_btn">История</string>
+    <string name="bad_habits">My bad habits. (cigarettes and alcohol)</string>
+    <string name="fast_food">Fast food and spending on a cafe.</string>
+    <string name="gasoline">Gasoline for my car.</string>
+    <string name="payments">My payments.</string>
+    <string name="services">Spending on services.</string>
+    <string name="other">Other expenses.</string>
+    <string name="select">Выберете тип операции:</string>
+    <string name="habits">Bad habits:</string>
+    <string name="f_food">Fast-food:</string>
+    <string name="gas">Gasoline:</string>
+    <string name="pay">Payments:</string>
+    <string name="serv">Services:</string>
+    <string name="s_other">Other:</string>
+    <string name="item1_text">№</string>
+    <string name="item2_text">Операция</string>
+    <string name="item3_text">Наименов.</string>
+    <string name="item4_text">Сумма</string>
+    <string name="item5_text">Дата</string>
+    <string name="btn_fAll">Все</string>
+    <string name="btn_fExp">Расходы</string>
+    <string name="btn_fInc">Приходы</string>
+    <string name="btn_clearHist">Очистить</string>
+    <string name="img_desc">Settings image</string>
+    <string name="str_header">Настройки</string>
+    <string-array name="settings_strings">
+        <item>Общая сумма</item>
+        <item>Расходы</item>
+        <item>Приходы</item>
+        <item>Лимиты расходов</item>
+        <item>Полный сброс</item>
+        <item>О приложении</item>
+    </string-array>
+</resources>
